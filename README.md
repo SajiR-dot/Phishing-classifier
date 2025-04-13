@@ -1,2 +1,2 @@
-# Phising-classifier
+# Phishing-classifier
 This is a Machine learning Project  to tackle phishing
